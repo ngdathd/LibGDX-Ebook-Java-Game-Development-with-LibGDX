@@ -1,10 +1,6 @@
 # Apress Source Code
 
-This repository accompanies Java Game Development with LibGDX(http://www.apress.com/9781484233238) by Lee Stemkoski (Apress, 2018).
-
-[comment]: #cover
-![Cover image](%isbn%.jpg)
-
+This repository accompanies Java Game Development with LibGDX (http://www.apress.com/9781484233238) by Lee Stemkoski (Apress, 2018).
 Download the files as a zip using the green button, or clone the repository to your machine using Git.
 
 ## Releases
